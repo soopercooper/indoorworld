@@ -1,0 +1,21 @@
+[0.501s] Invoking command in '/home/crolson1/finalproject/finalproject': PYTHONPATH=/home/crolson1/finalproject/build/finalproject/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/crolson1/finalproject/install/finalproject/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/finalproject build --build-base /home/crolson1/finalproject/build/finalproject/build install --record /home/crolson1/finalproject/build/finalproject/install.log --single-version-externally-managed install_data
+[0.680s] running egg_info
+[0.680s] writing ../build/finalproject/finalproject.egg-info/PKG-INFO
+[0.681s] writing dependency_links to ../build/finalproject/finalproject.egg-info/dependency_links.txt
+[0.681s] writing entry points to ../build/finalproject/finalproject.egg-info/entry_points.txt
+[0.681s] writing requirements to ../build/finalproject/finalproject.egg-info/requires.txt
+[0.681s] writing top-level names to ../build/finalproject/finalproject.egg-info/top_level.txt
+[0.683s] reading manifest file '../build/finalproject/finalproject.egg-info/SOURCES.txt'
+[0.683s] adding license file 'LICENSE'
+[0.684s] writing manifest file '../build/finalproject/finalproject.egg-info/SOURCES.txt'
+[0.684s] running build
+[0.684s] running build_py
+[0.684s] running install
+[0.684s] running install_lib
+[0.686s] running install_data
+[0.686s] running install_egg_info
+[0.687s] removing '/home/crolson1/finalproject/install/finalproject/lib/python3.10/site-packages/finalproject-0.0.0-py3.10.egg-info' (and everything under it)
+[0.688s] Copying ../build/finalproject/finalproject.egg-info to /home/crolson1/finalproject/install/finalproject/lib/python3.10/site-packages/finalproject-0.0.0-py3.10.egg-info
+[0.688s] running install_scripts
+[0.704s] writing list of installed files to '/home/crolson1/finalproject/build/finalproject/install.log'
+[0.724s] Invoked command in '/home/crolson1/finalproject/finalproject' returned '0': PYTHONPATH=/home/crolson1/finalproject/build/finalproject/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/crolson1/finalproject/install/finalproject/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/finalproject build --build-base /home/crolson1/finalproject/build/finalproject/build install --record /home/crolson1/finalproject/build/finalproject/install.log --single-version-externally-managed install_data
